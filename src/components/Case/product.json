@@ -1,0 +1,247 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "American-Tourister",
+      "name": "Tourister Bag",
+      "originalPrice": 5000,
+      "discountedPrice": 3199,
+      "rating": 4,
+      "discount": 30,
+      "bodyType": "Soft Body",
+      "wheels": "Spinner 4 wheels",
+      "images": [
+        "/image/America1.jpg",
+        "/image/Case/America1.1.jpg",
+        "/image/Case/America1.2.jpg",
+        "/image/Case/America1.3.jpg",
+        "/image/Case/America1.4.jpg"
+      ],
+      "colors": [
+        { "id": "black", "value": "#000000", "name": "Classic Black" },
+        { "id": "navy", "value": "#000080", "name": "Navy Blue" },
+        { "id": "grey", "value": "#808080", "name": "Classic Grey" }
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "Sky-Bags",
+      "name": "Sky Travel Bag",
+      "originalPrice": 13000,
+      "discountedPrice": 7500,
+      "rating": 5,
+      "discount": 49,
+      "image": "/image/Sky1.webp",
+      "images": [
+        "/image/Sky1.webp",
+        "/image/Case/Sky1 (1).jpg",
+        "/image/Case/Sky1 (2).jpg",
+        "/image/Case/Sky1 (3).jpg",
+        "/image/Case/Sky1 (4).jpg"
+      ],
+      "colors": [
+        { "id": "black", "value": "#000000", "name": "Classic Black" },
+        { "id": "navy", "value": "#000080", "name": "Navy Blue" },
+        { "id": "grey", "value": "#808080", "name": "Classic Grey" }
+      ],
+      "specifications": {
+        "bodyType": "Hard Body",
+        "wheels": "Upright 2 wheels"
+      }
+    },
+    {
+      "id": 3,
+      "brand": "Aristocart",
+      "name": "Aristocart Bag",
+      "originalPrice": 20700,
+      "discountedPrice": 5000,
+      "rating": 4,
+      "discount": 87,
+      "bodyType": "Soft Body",
+      "wheels": "Spinner 4 wheels",
+      "images": [
+        "/image/Ar1.webp",
+        "/image/Case/Aristocart1 (1).jpg",
+        "/image/Case/Aristocart1 (2).jpg",
+        "/image/Case/Aristocart1 (3).jpg",
+        "/image/Case/Aristocart1 (4).jpg"
+      ],
+      "colors": [
+        { "id": "black", "value": "#000000", "name": "Classic Black" },
+        { "id": "navy", "value": "#000080", "name": "Navy Blue" },
+        { "id": "grey", "value": "#808080", "name": "Classic Grey" }
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "Killer",
+      "name": "Killer Travel Bag",
+      "originalPrice": 2000,
+      "discountedPrice": 1000,
+      "rating": 3,
+      "discount": 50,
+      "image": "/image/killer2.webp",
+      "images": [
+        "/image/killer2.webp",
+        "/image/Case/Killer1 (1).jpg",
+        "/image/Case/Killer1 (2).jpg",
+        "/image/Case/Killer1 (3).jpg",
+        "/image/Case/Killer1 (4).jpg"
+      ],
+      "colors": [
+        { "id": "black", "value": "#000000", "name": "Classic Black" },
+        { "id": "navy", "value": "#000080", "name": "Navy Blue" },
+        { "id": "grey", "value": "#808080", "name": "Classic Grey" }
+      ],
+      "specifications": {
+        "bodyType": "Hard Body",
+        "wheels": "Upright 2 wheels"
+      },
+      "stock": 10,
+      "description": "A stylish and durable travel bag perfect for short trips. Features a hard body and two upright wheels for easy mobility.",
+      "category": "Luggage & Bags"
+    },
+    {
+      "id": 5,
+      "brand": "American-Tourister",
+      "name": "Tourister Bag",
+      "originalPrice": 15500,
+      "discountedPrice": 5400,
+      "rating": 4,
+      "discount": 78,
+      "bodyType": "Hard Body",
+      "wheels": "Spinner 4 wheels",
+      "images": [
+        "/image/America3.jpg",
+        "/image/Case/America2 (1).jpg",
+        "/image/Case/America2 (2).jpg",
+        "/image/Case/America2 (3).jpg",
+        "/image/Case/America2 (4).jpg"
+      ],
+      "colors": [
+        { "id": "black", "value": "#000000", "name": "Classic Black" },
+        { "id": "navy", "value": "#000080", "name": "Navy Blue" },
+        { "id": "grey", "value": "#808080", "name": "Classic Grey" }
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "American-Tourister",
+      "name": "Tourister Bag",
+      "originalPrice": 1500,
+      "discountedPrice": 999,
+      "rating": 4,
+      "discount": 52,
+      "image": "/image/America4.webp",
+      "bodyType": "Hard Body",
+      "wheels": "Spinner 4 wheels",
+      "images": [
+        "/image/America4.webp",
+        "/image/Case/America3 (1).jpg",
+        "/image/Case/America3 (2).jpg",
+        "/image/Case/America3 (3).jpg",
+        "/image/Case/America3 (4).jpg"
+      ],
+      "colors": [
+        { "id": "black", "value": "#000000", "name": "Classic Black" },
+        { "id": "navy", "value": "#000080", "name": "Navy Blue" },
+        { "id": "grey", "value": "#808080", "name": "Classic Grey" }
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "American-Tourister",
+      "name": "Tourister Bag",
+      "originalPrice": 1900,
+      "discountedPrice": 999,
+      "rating": 4,
+      "discount": 52,
+      "image": "/image/America2.webp",
+      "bodyType": "Hard Body",
+      "wheels": "Spinner 4 wheels",
+      "images": [
+        "/image/America2.webp",
+        "/image/Case/America4 (1).jpg",
+        "/image/Case/America4 (2).jpg",
+        "/image/Case/America4 (3).jpg",
+        "/image/Case/America4 (4).jpg"
+      ],
+      "colors": [
+        { "id": "black", "value": "#000000", "name": "Classic Black" },
+        { "id": "navy", "value": "#000080", "name": "Navy Blue" },
+        { "id": "grey", "value": "#808080", "name": "Classic Grey" }
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "Sky-Bags",
+      "originalPrice": 12419,
+      "discountedPrice": 7500,
+      "rating": 5,
+      "discount": 55,
+      "name": "Sky Travel Bag",
+      "image": "/image/Sky2.webp",
+      "bodyType": "Hard Body",
+      "wheels": "Upright 2 wheels",
+      "images": [
+        "/image/Sky3.webp",
+        "/image/Case/Sky3 (1).jpg",
+        "/image/Case/Sky3 (2).jpg",
+        "/image/Case/Sky3 (3).jpg",
+        "/image/Case/Sky3 (4).jpg"
+      ],
+      "colors": [
+        { "id": "black", "value": "#000000", "name": "Classic Black" },
+        { "id": "navy", "value": "#000080", "name": "Navy Blue" },
+        { "id": "grey", "value": "#808080", "name": "Classic Grey" }
+      ]
+    },
+    {
+      "id": 9,
+      "brand": "Sky-Bags",
+      "originalPrice": 4000,
+      "discountedPrice": 2500,
+      "rating": 5,
+      "discount": 35,
+      "name": "Sky Travel Bag",
+      "image": "/image/Sky3.webp",
+      "bodyType": "Soft Body",
+      "wheels": "Upright 2 wheels",
+      "images": [
+        "/image/Sky4.webp",
+        "/image/Case/Sky4 (1).jpg",
+        "/image/Case/Sky4 (2).jpg",
+        "/image/Case/Sky4 (3).jpg",
+        "/image/Case/Sky4 (4).jpg"
+      ],
+      "colors": [
+        { "id": "black", "value": "#000000", "name": "Classic Black" },
+        { "id": "navy", "value": "#000080", "name": "Navy Blue" },
+        { "id": "grey", "value": "#808080", "name": "Classic Grey" }
+      ]
+    },
+    {
+      "id": 11,
+      "brand": "Aristocart",
+      "name": "Aristocart Bag",
+      "originalPrice": 1700,
+      "discountedPrice": 900,
+      "rating": 4,
+      "discount": 47,
+      "bodyType": "Soft Body",
+      "wheels": "Spinner 4 wheels",
+      "images": [
+        "/image/a1.webp",
+        "/image/Case/Aristocart2 (1).jpg",
+        "/image/Case/Aristocart2 (2).jpg",
+        "/image/Case/Aristocart2 (3).jpg",
+        "/image/Case/Aristocart2 (4).jpg"
+      ],
+      "colors": [
+        { "id": "black", "value": "#000000", "name": "Classic Black" },
+        { "id": "navy", "value": "#000080", "name": "Navy Blue" },
+        { "id": "grey", "value": "#808080", "name": "Classic Grey" }
+      ]
+    }
+  ]
+}
